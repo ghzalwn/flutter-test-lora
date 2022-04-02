@@ -5,6 +5,7 @@ You will need to create one Flutter project with the following instruction. Plea
 ## Prerequisites
 
 - An API key from [Polygon.io](https://polygon.io)
+HMbSNDroKcx2AEKAeG38LKUPwC3SaEWq (please use this API key)
 
 ## Scenario
 
